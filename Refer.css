@@ -1,6 +1,6 @@
-P{
-font-family:"Comic Sans";
-font-color: "white";
+p{
+font:"Comic Sans";
+color: "white";
 }
 body{
   background-color: "black";
